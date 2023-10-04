@@ -1,0 +1,45 @@
+h1 {
+    color: pink; 
+    text-decoration: underline; 
+   }
+   
+   p {
+     font-size: 18px;
+     width: 400px;
+     text-indent: 50px;
+     text-align: justify;
+   }
+   span{
+      color: rgba(75, 9, 80, 0.408);
+      text-decoration: underline;
+   }
+   body {
+    color: #fff;
+    background-color: aquamarine;
+  }
+  .red-box {
+    background-color: greenyellow;
+  }
+
+  .blue-box {
+    background-color: gainsboro;
+  }
+  body {
+    background-color: #00D1AE;
+}
+
+.menu {
+    width: 400px;
+    height: 50px;
+    background-color: #00D1AE;
+    margin: 10px;
+    padding: 10px;
+}
+
+.content {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}

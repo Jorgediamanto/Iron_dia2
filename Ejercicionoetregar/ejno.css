@@ -1,0 +1,31 @@
+div{
+    
+    width: 200px;
+
+    float: left;
+}
+
+
+
+#div1{
+    width: 2000px;
+    height: 150px;
+    border: #ea796d 2px solid;
+    background-color: #e45d88;
+}
+
+#div2, #div3,#div4{
+    width: 500px;
+    height: 150px;
+    border: #53b642 2px solid;
+    background-color: #2d8482;
+}
+
+
+.margen-derecha{
+    margin-right: 500px;
+}
+
+.margen-inferior{
+    margin-bottom: 500px;
+}
